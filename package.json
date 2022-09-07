@@ -1,0 +1,56 @@
+{
+  "_args": [
+    [
+      "@levelupdevelopment/react-native-calendar-datepicker@1.2.4",
+      "/Users/scoob/odi-react-native"
+    ]
+  ],
+  "_from": "@levelupdevelopment/react-native-calendar-datepicker@1.2.4",
+  "_id": "@levelupdevelopment/react-native-calendar-datepicker@1.2.4",
+  "_inBundle": false,
+  "_integrity": "sha1-95OMe6RvxRGPTJok7zFyKTm0amQ=",
+  "_location": "/@levelupdevelopment/react-native-calendar-datepicker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@levelupdevelopment/react-native-calendar-datepicker@1.2.4",
+    "name": "@levelupdevelopment/react-native-calendar-datepicker",
+    "escapedName": "@levelupdevelopment%2freact-native-calendar-datepicker",
+    "scope": "@levelupdevelopment",
+    "rawSpec": "1.2.4",
+    "saveSpec": null,
+    "fetchSpec": "1.2.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@levelupdevelopment/react-native-calendar-datepicker/-/react-native-calendar-datepicker-1.2.4.tgz",
+  "_spec": "1.2.4",
+  "_where": "/Users/scoob/odi-react-native",
+  "author": {
+    "name": "Vlad-Doru Ion"
+  },
+  "dependencies": {
+    "lodash": "^4.15.0",
+    "moment": "^2.14.1"
+  },
+  "description": "Cross platform calendar datepicker library for React Native.",
+  "homepage": "https://bitbucket.org/LevelUpDevelopment/lud-react-native-calendar-datepicker#readme",
+  "keywords": [
+    "react",
+    "react-native",
+    "calendar",
+    "datepicker",
+    "cross",
+    "platform"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "name": "@levelupdevelopment/react-native-calendar-datepicker",
+  "repository": {
+    "type": "bitbucket",
+    "url": "git+https://bitbucket.org/LevelUpDevelopment/lud-react-native-calendar-datepicker.git"
+  },
+  "version": "1.2.4"
+}
